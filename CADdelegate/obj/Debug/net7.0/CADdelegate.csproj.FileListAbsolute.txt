@@ -1,0 +1,15 @@
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\bin\Debug\net7.0\CADdelegate.exe
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\bin\Debug\net7.0\CADdelegate.deps.json
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\bin\Debug\net7.0\CADdelegate.runtimeconfig.json
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\bin\Debug\net7.0\CADdelegate.dll
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\bin\Debug\net7.0\CADdelegate.pdb
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.csproj.AssemblyReference.cache
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.AssemblyInfoInputs.cache
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.AssemblyInfo.cs
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.csproj.CoreCompileInputs.cache
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.dll
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\refint\CADdelegate.dll
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.pdb
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\CADdelegate.genruntimeconfig.cache
+C:\Muhammed_projects\courses\c#\CADdelegate\CADdelegate\obj\Debug\net7.0\ref\CADdelegate.dll
